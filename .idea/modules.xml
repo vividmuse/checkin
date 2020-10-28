@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/checkin-master.iml" filepath="$PROJECT_DIR$/.idea/checkin-master.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/dangdang1yuan/.idea/dangdang1yuan.iml" filepath="$USER_HOME$/PycharmProjects/dangdang1yuan/.idea/dangdang1yuan.iml" />
+    </modules>
+  </component>
+</project>
